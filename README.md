@@ -1,3 +1,3 @@
 # DSH Harness
 
-Sandbox repository for the DSH Harness-superagent prototype.
+Sandbox repository for the DSH Harness Superagent prototype.
